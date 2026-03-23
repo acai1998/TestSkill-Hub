@@ -15,10 +15,10 @@
 
 ## 🚀 如何使用
 
-所有 Skill 均在 **CatPaw IDE** 中通过 AI Agent 触发，无需手动执行脚本。
+所有 Skill 均通过 AI Agent 触发，无需手动执行脚本。
 
 ### 使用方式
-1. 在 CatPaw 中打开对话，切换到对应 Skill 所在的工作目录
+1. 打开 AI Agent 对话，切换到对应 Skill 所在的工作目录
 2. 直接用自然语言描述任务，Agent 会自动读取 `SKILL.md` 并执行
 3. 产物文件会自动落地到对应的 `outputs/` 目录下
 
