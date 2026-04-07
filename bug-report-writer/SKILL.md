@@ -1,5 +1,5 @@
 ---
-name: bug-report-writer
+name: Bug单生成器
 description: 根据测试人员描述的缺陷现象，自动生成规范的 Bug 单，包含复现步骤、严重等级、优先级、环境信息、日志摘要等字段，并落地为 Markdown 文件。适用于"帮我写 Bug 单""整理缺陷报告""格式化 Bug 描述"等场景。
 ---
 
